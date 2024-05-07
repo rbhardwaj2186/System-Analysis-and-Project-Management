@@ -4,7 +4,7 @@ CareConnect: Healthcare Innovation Hub
 
 CareConnect is an advanced digital platform that aims to revolutionize healthcare services and patient engagement. It addresses the challenges faced by patients and healthcare professionals in the current healthcare system.
 
-![draw8_nw](https://github.com/rbhardwaj2186/System-Analysis-and-Project-Management/assets/143745073/c58aed85-a882-42ba-a1dd-ffb0aaacae8e)
+(https://github.com/rbhardwaj2186/System-Analysis-and-Project-Management/assets/143745073/c58aed85-a882-42ba-a1dd-ffb0aaacae8e)
 
 
 Key Features:
